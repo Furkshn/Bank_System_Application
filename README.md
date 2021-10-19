@@ -8,7 +8,6 @@
         <li>Depositing money into the bank account.</li>
         <li>Withdrawing money from your bank account.</li>
         <li>Viewing the balance in the bank account.</li>
-        <li>Investing interest.</li>
         <li>To perform cryptocurrency transactions.</li>
     </ul>
     
